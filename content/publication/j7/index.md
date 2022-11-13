@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "虚拟经济的发展抑制了实体经济吗?—来自中国上市公司的微观证据"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- 周彬
+- 谢佳松
+
+date: "2018-11-01T00:00:00Z"
+doi: "10.16538/j.cnki.jfe.2018.11.006"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +17,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "财经研究, 44(11)"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: 现有关于虚拟经济影响实体经济的文献大多以宏观数据为基础,且主要关注以银行业为代表的虚拟经济,而对影子银行和地方融资平台的关注不够。鉴于此,文章利用中国上市公司微观面板数据,考察了虚拟经济发展对实体经济部门的影响。研究发现:（1）自2008年以来,实体部门企业自身的金融化总体上显著抑制了实体经济的发展,且这种抑制在短期内主要体现为地方国有企业和民营企业的增长受限,而在长期则主要体现为民营企业的增长受限。（2）上述抑制效应在区域、行业和持有金融资产分类上具有异质性,具体表现为:对发达地区的企业挤出更为严重,对制造业的抑制更为显著,且企业持有房地产性投资资产对实体经济的负面影响更大、更持久。进一步考察虚拟经济作用于实体经济的机制后发现,影子银行的发展是虚拟经济抑制实体经济部门的重要渠道,地方融资平台也扭曲了不同所有制部门的金融资产配置,进而抑制了民营实体企业的发展。因此,政府应该协调金融行业监管,提高金融资源配置效率,规范地方政府融资平台,进而推动实体经济的健康发展。 
 
-tags:
-- Source Themes
-featured: false
+
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=CJYJ201811007&uniplatform=NZKPT&v=4kMiogFsXD_wkczFYhnUjEESQ2zNpSSob10tjbp-iYOYLDPKIMotzM0ynnBEH12B'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,34 +36,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
