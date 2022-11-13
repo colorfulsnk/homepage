@@ -25,10 +25,10 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-- icon: "stata"
-  icon_pack: "custom"
-  name: "Stata"
-  description: "90%"
+  - description: 80%
+    icon: stata
+    icon_pack: fab
+    name: Stata
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
