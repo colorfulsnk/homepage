@@ -28,8 +28,7 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-    
-    - description: 80%
+   - description: 80%
     icon: stata
     icon_pack: custom
     name: "Stata"
