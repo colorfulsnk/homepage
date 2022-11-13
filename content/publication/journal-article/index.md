@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "人口迁移的地区代际流动偏好:微观证据与影响机制"
 authors:
-- admin
-- Robert Ford
+- 王伟同
+- 谢佳松
+- 张玲
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
