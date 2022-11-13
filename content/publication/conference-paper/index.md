@@ -33,7 +33,6 @@ abstract: 中国传统社会中的善会善堂作为民间慈善组织，兼具�
 
 
 # Display this page in the Featured widget?
-featured: true
 
 # Custom links (uncomment lines below)
 # links:
