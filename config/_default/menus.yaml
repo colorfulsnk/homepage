@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Working Paper
+  - name: Working Papers
     url: '#workingapaper'
     weight: 30
 
