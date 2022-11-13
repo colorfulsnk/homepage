@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "Working paper"
 publication_short: ""
 
-abstract:""
+abstract: ""
 
 
 # links:
