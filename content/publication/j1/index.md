@@ -1,11 +1,10 @@
 ---
-title: "An example journal article"
+title: "地区代际流动性对企业管理家族化的影响研究"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 杨扬
+- 谢佳松
+- 林建浩
+- 汪寿阳
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
