@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "社会代际流动区域差异及影响因素实证研究:以中国东北为视角"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- 侯瑜
+- 谢佳松
+
+date: "2018-05-01T00:00:00Z"
+doi: "10.15884/j.cnki.issn.1007-0672.2018.03.008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "西北人口, 39(3)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 代际流动固化,不仅影响经济发展,而且会导致社会问题,有必要对其影响因素和机制进行研究。基于CGSS2013年数据,以东北为视角,论文构建了社会代际流动计量模型,实证分析和比较东北地区社会代际流动的现状及差异,并进一步考察影响东北代际流动的因素。结论发现,东北地区存在显著的代际流动停滞,其中以吉林省最为严重;东北地区的创新环境、较高的国企比例、以及较低的市场化程度不利于人力资本的代际流动,存在"逆淘汰"效应;东北地区国企职工的代际依存度更高;父亲的体制身份使其可通过行政职务之便进行暗箱操作或权力寻租进而影响其子女社会地位,存在"阶层再生产"现象,以黑龙江省最为突出。论文研究及结论丰富了有关代际流动的研究。 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XBRK201803008&uniplatform=NZKPT&v=T8CV5kUUhLs-T89WjrikwJVydVjYXyGvwNZLvVpG6O7-ObWlFLzH8S2PUB4y2yyd'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,34 +41,4 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
