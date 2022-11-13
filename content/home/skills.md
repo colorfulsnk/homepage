@@ -21,10 +21,6 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-   - description: 80%
-    icon: stata
-    icon_pack: custom
-    name: "Stata"
   - description: 50%
     icon: r-project
     icon_pack: fab
