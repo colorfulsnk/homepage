@@ -2,13 +2,11 @@
 title: "人口迁移的地区代际流动偏好:微观证据与影响机制"
 authors:
 - 王伟同
-- 谢佳松
+- 谢佳松*
 - 张玲
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019"
+doi: "10.19744/j.cnki.11-1235/f.2019.0094"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
