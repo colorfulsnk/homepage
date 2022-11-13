@@ -59,6 +59,6 @@ email: 'xiejs3@mail2.sysu.edu.cn'
 highlight_name: true
 ---
 
-I am a PhD candidate at the Lingnan College, Sun Yat-sun University. My research interests include economic development, innovation and cultural economics.
+I am a Ph.D. candidate at Lingnan College, Sun Yat-sun University, and expected to graduate in June 2023. My research interests include economic development, innovation and cultural economics. My doctoral dissertation discusses the hidden barriers and network effects of innovation diffusion in China and got the 2022-2023 Dissertation Scholarship from Peking University-Lincoln Institute Center for Urban Development and Land Policy.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
