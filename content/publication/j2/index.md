@@ -16,10 +16,10 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*山东大学学报(哲学社会科学版), *(6)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 儒家文化作为中华民族历史上最为重要的哲学体系,是中国传统社会制度的正当性根据和社会秩序的基石。利用手工搜集的历史孔庙数据与中国A股上市公司财务数据,验证了儒家文化传统对当代企业创新具有重要促进效应。在考虑企业管理者籍贯地和其他潜在的内生性问题后,上述结论仍然稳健。在机制路径中,儒家文化传统通过影响企业内部金融资产配置和股权分布影响了企业的创新投入,通过改变企业外部社会机会结构进一步影响企业创新行为。综上,从企业视角切入,为非正式制度对经济发展的影响提供了新的思路,也为深入理解儒家文化思想内核的长期影响提供了新的微观证据。 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
