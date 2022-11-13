@@ -29,15 +29,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Econoimcs
+      institution: Sun Yat-sen University
+      year: 2019-2023
+    - course: M.A. in Econoimcs
+      institution: Dongbei University of Finance & Economics
+      year: 2016-2019
+    - course: B.A. in Econoimcs
+      institution:  Anhui University of Finance & Economics
+      year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
