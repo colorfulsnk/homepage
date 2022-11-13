@@ -24,10 +24,6 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
    - description: 80%
     icon: stata
     icon_pack: custom
