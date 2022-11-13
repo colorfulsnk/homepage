@@ -21,10 +21,10 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 80%
-    icon: stata
-    icon_pack: fab
-    name: Stata
+  - description: "80%"
+    icon: "stata"
+    icon_pack: "custom"
+    name: "Stata"
   - description: 50%
     icon: matlab
     icon_pack: fab
@@ -33,10 +33,7 @@ feature:
     icon: qgis
     icon_pack: fab
     name: Qgis
-- icon: "org-x"
-  icon_pack: "custom"
-  name: "Surfing"
-  description: "90%"
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
