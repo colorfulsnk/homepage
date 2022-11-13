@@ -1,5 +1,5 @@
 ---
-title: "Putting on and Removing the "Hats of Poverty": Economic and Political Logic behind Data Manipulation in China"
+title: "Putting on and Removing the Hats of Poverty: Economic and Political Logic behind Data Manipulation in China"
 authors:
 - Lin Jianhao
 - Xie Jiasong
