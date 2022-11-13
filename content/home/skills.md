@@ -21,14 +21,19 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 50%
-    icon: r-project
-    icon_pack: fab
-    name: R
   - description: 80%
     icon: stata
     icon_pack: fab
     name: Stata
+  - description: 50%
+    icon: matlab
+    icon_pack: fab
+    name: Matlab
+  - description: 50%
+    icon: qgis
+    icon_pack: fab
+    name: Qgis
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
