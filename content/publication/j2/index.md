@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=SDZS202006006&uniplatform=NZKPT&v=yFkxt7xH1r3gnhklba3WakiqEmDjA6cM7oVrQTtJs6i5Eaal21cZX0QcemHBRCuR
+url_pdf:'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=SDZS202006006&uniplatform=NZKPT&v=yFkxt7xH1r3gnhklba3WakiqEmDjA6cM7oVrQTtJs6i5Eaal21cZX0QcemHBRCuR'
 url_code: ''
 url_dataset: ''
 url_poster: ''
