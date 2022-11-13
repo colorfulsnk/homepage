@@ -3,8 +3,8 @@
 title: Jiasong Xie 谢佳松
 
 # Full name (for SEO)
-first_name: Xie
-last_name: Jiasong
+first_name: Jiasong
+last_name: Xie
 
 # Is this the primary user of the site?
 superuser: true
