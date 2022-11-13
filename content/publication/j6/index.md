@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "本地CEO与企业价值：推动还是掏空？"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- 谢佳松
+- 张玲
+
+date: "20122-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "20122-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +17,9 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "经济管理, 45(10)"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: CEO家乡背景是衡量非正式制度中社会关系和CEO个体特征的重要指标。本文基于手工整理的中国A股上市公司CEO家乡所在城市数据识别了上市公司本地CEO特征，研究发现，本地CEO显著抑制了企业价值，这一结论经过一系列稳健性检验后仍然存在。在使用Heckman两步法、PSM、DID和工具变量等识别策略从各个角度缓解可能存在的估计问题后，证实了本地CEO对企业价值的负向效应具有因果性。机制分析表明，本地CEO主要通过影响企业各类重大战略决策、增加金融机构与企业之间信息不对称水平、减弱董事会监督作用等渠道降低企业价值。这种“掏空”企业价值的效应在外部监管环境越弱时更加突出。聘用本地CEO的治理模式在中国上市公司中广泛存在，本文揭示了本地CEO治理对企业价值的影响和机制路径，不仅从非正式制度角度丰富了企业高管对企业发展影响的相关研究，同时为基于地缘社会联系的行动逻辑给出了拓展性讨论。
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,8 +31,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'http://www.jjgl.cass.cn/Magazine/Show/84174'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,34 +40,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
