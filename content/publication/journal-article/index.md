@@ -1,11 +1,9 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 王伟同
+- 谢佳松*
+- 张玲
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
