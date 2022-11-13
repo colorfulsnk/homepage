@@ -33,7 +33,10 @@ feature:
     icon: qgis
     icon_pack: fab
     name: Qgis
-
+- icon: ":smile:"
+  icon_pack: "emoji"
+  name: "Emojiness"
+  description: "100%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
