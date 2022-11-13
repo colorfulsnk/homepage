@@ -4,7 +4,7 @@ authors:
 - 才国伟
 - 谢佳松
 date: "2020-11-01T00:00:00Z"
-doi: ""
+doi: "10.19836/j.cnki.37-1100/c.2020.06.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-01T00:00:00Z"
@@ -48,6 +48,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
 ---
 
