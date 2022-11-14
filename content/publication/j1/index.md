@@ -6,7 +6,7 @@ authors:
 - 林建浩
 - 汪寿阳
 date: "2020-10-01T00:00:00Z"
-doi: ""
+doi: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JCYJ202010004&uniplatform=NZKPT&v=rtKfF4ueHpEtjcPlOcTLNEncCtSbtOEl0m2ye7adc9L7tdv27HlEj3e5lA5B6INf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-01T00:00:00Z"
