@@ -6,7 +6,7 @@ authors:
 - 林建浩
 - 柯玮迪
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XTLL202009002&uniplatform=NZKPT&v=BTKKYpfgWExckHxwR8Hetv6Syj2DUTvODcyrXDYKPRBCzdwbCN0isp0jwiWNj6Ak"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-01T00:00:00Z"
