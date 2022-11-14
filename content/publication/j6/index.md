@@ -5,7 +5,7 @@ authors:
 - 张玲
 
 date: "2022-10-01T00:00:00Z"
-doi: ""
+doi: "http://www.jjgl.cass.cn/Magazine/Show/84174"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-01T00:00:00Z"
