@@ -44,10 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+ - icon: envelope
     icon_pack: fas
-    name: xiejs3@mail2.sysu.edu.cn
-    label: xiejs3@mail2.sysu.edu.cn
+    link: '/#contact'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
