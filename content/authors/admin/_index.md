@@ -47,6 +47,7 @@ social:
   - icon: envelope
     icon_pack: fas
     name: xiejs3@mail2.sysu.edu.cn
+    label: xiejs3@mail2.sysu.edu.cn
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
