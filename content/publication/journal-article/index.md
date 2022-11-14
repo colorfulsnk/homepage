@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=GLSJ201907010&uniplatform=NZKPT&v=tI3YudqOkuIP9gBUZrdKmTxd5L_yluS0DfOgWH4CtKj3OnRoL8zoMRhnNlQ8ITe7'
 url_code: ''
 url_dataset: ''
 url_poster: ''
