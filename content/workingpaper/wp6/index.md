@@ -1,5 +1,5 @@
 ---
-title: "Informal Patronage neteorks and GDP manipulation: Evidence in China"
+title: "Informal Patronage Networks and GDP Manipulation: Evidence in China"
 authors:
 - Xie Jiasong
 
