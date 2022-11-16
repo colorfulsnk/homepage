@@ -1,5 +1,5 @@
 ---
-title: "Does overseas contact bring comparative advantages to local enterprises? A study of Wenzhounese emigration and exporting"
+title: "Does Overseas Contact Bring Comparative Advantages to Local Enterprises? A Study of Wenzhounese Emigration and Exporting"
 authors:
 - Lin Jianhao
 - Xie Jiasong
