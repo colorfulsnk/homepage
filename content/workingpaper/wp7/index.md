@@ -4,9 +4,6 @@ authors:
 - Lin Jianhao
 - Xie Jiasong
 - Zhao Zile
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2020-09-01T00:00:00Z"
 doi: ""
 
