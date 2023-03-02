@@ -12,11 +12,11 @@ authors:
 # Author notes (optional)
 
 
-date: '2022-11-01T00:00:00Z'
+date: '2023-4-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-01T00:00:00Z'
+publishDate: '2023-4-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ publishDate: '2022-11-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "财经研究, 已录用"
+publication: "财经研究"
 
 
 abstract: 中国传统社会中的善会善堂作为民间慈善组织，兼具施善与教化功能，这种历史上的非正式制度是否持续影响当代企业行为？本文将上市企业精确坐标匹配到古代府级层面，并结合史料中善会善堂数据进行实证研究，结果表明：善会善堂密度越高的地区，企业社会责任表现越好；进一步利用企业是否需强制披露社会责任以及自主第三方鉴证等视角剥离机会主义动机，地区善会善堂密度对企业社会责任表现的推动作用依然存在。从作用机制来看，历史上长期存在的善会善堂形成了个体利他的文化观念，通过塑造企业管理者的利他价值观进而影响企业社会责任表现。本文的研究结果表明，历史上长期存在的善会善堂虽然已不复存在，但依然对当今经济活动产生深远影响，这有助于理解中华优秀传统文化的现代意义。
