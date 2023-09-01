@@ -60,6 +60,6 @@ email: 'xiejs@dufe.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My research interests include development economics, innovation economics, digital economics and cultural economics.
+I'm an associate professor at SOE, Dongbei University of Finance and Economics. My research interests include development economics, innovation economics, digital economics and cultural economics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
