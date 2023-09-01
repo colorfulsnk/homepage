@@ -25,12 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xiejs3@mail2.sysu.edu.cn
+  email: xiejs@dufe.edu.cn
   address:
-    street: 新港西路中山大学南校区伍舜德图书馆202室
-    city: 广州市
-    region: 广东省
-    postcode: '510275'
+    street: 沙河口区尖山街217号
+    city: 大连市
+    region: 辽宁省
+    postcode: '116025'
     country: China
     country_code: CHN
 
