@@ -10,12 +10,12 @@ last_name: Xie
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Lingnan College, Sun Yat-sen University
-    url: https://lingnan.sysu.edu.cn
+    url: http://econ.dufe.edu.cn  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include development economics, innovation economics and cultural economics.
