@@ -14,17 +14,17 @@ role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Lingnan College, Sun Yat-sen University
+  - name: SOE, Dongbei University of Finance and Economics
     url: http://econ.dufe.edu.cn  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include development economics, innovation economics and cultural economics.
+bio: My research interests include development economics, innovation economics and digital economics.
 
 # Interests to show in About widget
 interests:
   - Development economics
   - Innovation economics
-  - Cultural economics
+  - Digital economics
 
 # Education to show in About widget
 education:
@@ -55,12 +55,11 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiejs3@mail2.sysu.edu.cn'
+email: 'xiejs@dufe.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a Ph.D. candidate at Lingnan College, Sun Yat-sun University, and expected to graduate in June 2023. I Born in June 1994. My research interests include economic development, innovation and cultural economics. My doctoral dissertation discusses the hidden barriers and network effects of innovation diffusion in China and got the 2022-2023 Dissertation Scholarship from Peking University-Lincoln Institute Center for Urban Development and Land Policy.
+My research interests include development economics, innovation economics, digital economics and cultural economics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
