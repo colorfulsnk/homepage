@@ -25,6 +25,7 @@ interests:
   - Development economics
   - Innovation economics
   - Digital economics
+  - Cultural economics
 
 # Education to show in About widget
 education:
