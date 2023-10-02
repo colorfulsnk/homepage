@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract: -
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: -
+summary: 
 
 tags:
 - Source Themes
