@@ -10,7 +10,7 @@ last_name: Xie
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. 
+role: Ph.D. 经济学博士 硕士研究生导师
 
 # Organizations/Affiliations to show in About widget
 organizations:
