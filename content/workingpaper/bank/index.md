@@ -4,7 +4,6 @@ authors:
 - Hang Jing
 - Xie Jiasong
 - Zhan Chaoqun
-
 date: "2024-03-01T00:00:00Z"
 doi: ""
 
@@ -27,7 +26,7 @@ abstract:
 summary: 
 
 tags:
-- Source Themes
+ Source Themes
 featured: false
 
 # links:
@@ -44,4 +43,3 @@ url_video: ''
 
 
 ---
-
