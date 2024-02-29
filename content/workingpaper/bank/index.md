@@ -1,13 +1,14 @@
 ---
 title: "Bank Competition and Resource Misallocation"
 authors:
-- 谢佳松
-- 才国伟
-date: "2023-09-01T00:00:00Z"
+- Hang Jing
+- Xie Jiasong
+- Zhan Chaoqun
+date: "2024-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2024-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
