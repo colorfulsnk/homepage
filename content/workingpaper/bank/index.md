@@ -1,5 +1,5 @@
 ---
-title: "金融网络何以推动创新扩散？"
+title: "Bank Competition and Resource Misallocation"
 authors:
 - 谢佳松
 - 才国伟
