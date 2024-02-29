@@ -17,7 +17,7 @@ publishDate: "2024-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "工作论文"
 publication_short: ""
 
 abstract: 
@@ -26,7 +26,7 @@ abstract:
 summary: 
 
 tags:
- Source Themes
+- Source Themes
 featured: false
 
 # links:
