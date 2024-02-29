@@ -1,5 +1,5 @@
 ---
-title: "金融网络何以推动创新扩散？——基于商业银⾏异地分⽀机构设⽴的实证研究"
+title: "金融网络何以推动创新扩散？"
 authors:
 - 谢佳松
 - 才国伟
@@ -16,7 +16,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "工作论文"
+publication: "Working Paper"
 publication_short: ""
 
 abstract: 
@@ -25,7 +25,7 @@ abstract:
 summary: 
 
 tags:
-- Source Themes
+ Source Themes
 featured: false
 
 # links:
