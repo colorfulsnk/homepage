@@ -1,5 +1,5 @@
 ---
-title: "Bank Competition and Resource Misallocation"
+title: "Finance and Resource Misallocation: Evidence from a Banking Deregulation in China"
 authors:
 - Hang Jing
 - Xie Jiasong
