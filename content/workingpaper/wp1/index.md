@@ -7,7 +7,7 @@ authors:
 - Xie Jiasong
 
 date: "2024-05-21T00:00:00Z"
-doi: ""
+doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836199"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-21T00:00:00Z"
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836199'
 url_code: ''
 url_dataset: ''
 url_poster: ''
