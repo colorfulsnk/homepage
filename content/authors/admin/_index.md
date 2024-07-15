@@ -61,6 +61,6 @@ email: 'xiejs@dufe.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm an associate professor at SOE, Dongbei University of Finance and Economics. My research interests include development economics, innovation economics, digital economics and cultural economics. SSRN homepage: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5915185" SSRN> </a> (Here is the working paper. Comments are very welcome.)
+I'm an associate professor at SOE, Dongbei University of Finance and Economics. My research interests include development economics, innovation economics, digital economics and cultural economics. SSRN homepage: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5915185">Here is the working paper</a>. (Comments are very welcome.)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
