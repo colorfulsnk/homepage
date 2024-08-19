@@ -4,11 +4,11 @@ authors:
 - 谢佳松
 - 林建浩
 - 罗挺威
-date: "2024-8-01T00:00:00Z"
+date: "2024-08-01T00:00:00Z"
 doi: "https://manu30.magtech.com.cn/sjjj/CN/Y2024/V47/I8/67"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-8-01T00:00:00Z"
+publishDate: "2024-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
