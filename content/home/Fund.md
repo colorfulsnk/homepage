@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - Fund
     tag: ''
     category: ''
     publication_type: ''
