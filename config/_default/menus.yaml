@@ -12,10 +12,10 @@ main:
     weight: 20
   - name: Working Papers
     url: '#workingpapers'
-    weight: 40
+    weight: 30
   - name: Fund
     url: '#Fund'
-    weight: 30
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
