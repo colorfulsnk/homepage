@@ -10,7 +10,7 @@ cms_exclude: true
 view: 4
 
 # Number of columns.
-columns: 2
+columns: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
