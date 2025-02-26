@@ -8,7 +8,7 @@ date: "2025-2-1T00:00:00Z"
 doi: "https://tjyj.cbpt.cnki.net/portal"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-31T00:00:00Z"
+publishDate: "2025-2-1T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
