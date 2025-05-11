@@ -1,16 +1,16 @@
 ---
-title: "The Shapeshifting Hat: Strategic Response to Fiscal and Political Incentives of Chinese National Poor Counties"
+title: "The Shapeshifting Hat: Asymmetric Response to Fiscal and Political Incentives of Chinese National Poor Counties"
 authors:
 - Lin Jianhao
 - Luo Tingwei
 - Sha Wenbiao
 - Xie Jiasong
 
-date: "2024-05-21T00:00:00Z"
+date: "2025-05-01T00:00:00Z"
 doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836199"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-21T00:00:00Z"
+publishDate: "2024-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
