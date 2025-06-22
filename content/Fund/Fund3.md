@@ -1,16 +1,9 @@
 ---
-title: "Fund Project"
-date: 2025-06-01
-draft: false
+title: "辽宁省自然科学基金项目"
 ---
 
-{{< columns >}}
-<div class="column">
-<strong>辽宁省自然科学基金</strong>
+<div style="display: flex; justify-content: space-between;">
+  <div><strong>基于大语言模型专利语义挖掘的企业突破式创新识别及数字知识驱动机制研究</strong></div>
 </div>
 
-<div class="column">
-<strong>基于大语言模型专利语义挖掘的企业突破式创新识别及数字知识驱动机制研究</strong>
-</div>
-{{< /columns >}}
 
