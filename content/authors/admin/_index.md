@@ -63,7 +63,7 @@ highlight_name: true
 ---
 I'm an associate professor at SOE, Dongbei University of Finance and Economics. My research interests include development economics, innovation economics, digital economics and cultural economics. SSRN homepage: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5915185">SSRN</a>. (Here is the working paper and comments are very welcome.)
 
-谢佳松，中山大学经济学博士，东北财经大学经济学院、东北财经大学数字经济与创新发展研究中心副教授，硕士生导师。国家自然科学基金通讯评议专家，《世界经济》《数量经济技术经济研究》《财贸经济》《财经研究》等学术期刊匿名审稿人。主要研究方向为创新与发展经济学、数字经济学、大语言模型应用与自然语言处理等。目前已在《管理世界》《世界经济》《管理科学学报》《财贸经济》《数量经济技术经济研究》《统计研究》等核心期刊上发表十余篇学术论文。主持国家自然科学基金青年项目、教育部人文社会科学研究青年基金项目、辽宁省自然科学基金项目及北大-林肯博士学位论文奖学金等项目，参与多项国家自然科学基金重大项目、面上项目、国家社会科学基金重大项目。 SSRN论文地址：<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5915185">SSRN</a>. (欢迎讨论交流。)
+谢佳松，中山大学经济学博士，东北财经大学经济学院、东北财经大学数字经济与创新发展研究中心副教授，硕士生导师。国家自然科学基金通讯评议专家，《China Economic Review》《世界经济》《数量经济技术经济研究》《财贸经济》《财经研究》等学术期刊匿名审稿人。主要研究方向为创新与发展经济学、数字经济学、大语言模型应用与自然语言处理等。目前已在《管理世界》《世界经济》《管理科学学报》《财贸经济》《数量经济技术经济研究》《统计研究》等核心期刊上发表十余篇学术论文。出版专著教材：《大数据分析：Python实践与大型语言模型应用》。主持国家自然科学基金青年项目、教育部人文社会科学研究青年基金项目、辽宁省自然科学基金项目及北大-林肯博士学位论文奖学金等项目，参与多项国家自然科学基金重大项目、面上项目、国家社会科学基金重大项目。 SSRN论文地址：<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5915185">SSRN</a>. (欢迎讨论交流。)
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
