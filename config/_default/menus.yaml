@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Books
+    url: '#books'
+    weight: 25
   - name: Working Papers
     url: '#workingpapers'
     weight: 30
