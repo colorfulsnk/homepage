@@ -3,11 +3,11 @@ title: "技术断供与高质量创新——基于专利适用性视角"
 authors:
 - 谢佳松
 - 王成烨
-date: "2026-04-01T00:00:00Z"
+date: "2026-03-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-04-01T00:00:00Z"
+publishDate: "2026-03-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,4 +42,3 @@ url_video: ''
 
 
 ---
-

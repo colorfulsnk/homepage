@@ -3,11 +3,11 @@ title: "算力供给、产业链网络与定向技术进步"
 authors:
 - 谢佳松
 - 王伟同
-date: "2026-08-01T00:00:00Z"
+date: "2026-03-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-08-01T00:00:00Z"
+publishDate: "2026-03-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
