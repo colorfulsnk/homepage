@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Jiasong Xie personal academic homepage, including biography, publications, working papers, books, funds, and contact information.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -60,7 +60,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/colorfulsnk/homepage'
     content_dir: content
     branch: main
   avatar:

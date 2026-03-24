@@ -23,7 +23,7 @@ publication_short: ""
 abstract: 代际流动是影响经济活动的重要社会环境因素,其水平高低代表了一个地区社会公平尤其是机会公平程度。本文基于全国1%人口抽样调查数据构造城市层级的代际流动性指标,探究其对城市-行业创新的影响及其作用机制。研究发现,代际流动性显著促进了创新产出,这一结论在一系列稳健性检验和内生性讨论后仍然存在。基于地区历史上距离印刷品原材料的河流距离这一外生地理特征,本文验证了代际流动对创新的因果影响。在机制检验中,一方面,高代际流动性能够吸引高技能劳动力迁入,继而优化劳动力结构;另一方面,高代际流动性意味着更加开放的机会结构,鼓励个体竞争和冒险,从而释放企业家精神以推动创新。本文结论表明,代际流动性不仅事关阶层固化和社会稳定,更是影响创新的重要因素。围绕创新推动改革,需要将提升代际流动性纳入促进创新的政策体系之中。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Source Themes
@@ -53,5 +53,4 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
 
