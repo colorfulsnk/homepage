@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 9000
 
-title: Fund
+title: Funds
 subtitle: ''
 
 content:

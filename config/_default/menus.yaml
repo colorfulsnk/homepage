@@ -16,7 +16,7 @@ main:
   - name: Working Papers
     url: '#workingpapers'
     weight: 30
-  - name: Fund
+  - name: Funds
     url: '#Fund'
     weight: 40
   - name: Contact

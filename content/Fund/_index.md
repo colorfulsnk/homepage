@@ -1,5 +1,5 @@
 ---
-title: Fund
+title: Funds
 cms_exclude: true
 
 # View.
@@ -17,4 +17,3 @@ header:
   caption: ''
   image: ''
 ---
-
