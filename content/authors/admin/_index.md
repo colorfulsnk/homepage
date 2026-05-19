@@ -70,4 +70,4 @@ SSRN论文地址：<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?pe
 《大数据分析：Python实践与大型语言模型应用》教材资源：<a href="https://github.com/colorfulsnk/bigdata-python-llm-book-resources">GitHub Repository</a>
 
 
-{{< icon name="download" pack="fas" >}} 个人简介：{{< staticref "uploads/demo_resume.pdf" "newtab" >}}PDF资源{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 个人简介：{{< staticref "uploads/demo_resume.pdf" "newtab" >}}查看 PDF{{< /staticref >}}.
