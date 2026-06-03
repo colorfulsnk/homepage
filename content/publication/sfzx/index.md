@@ -4,7 +4,7 @@ authors:
 - 谢佳松
 - 王成烨
 date: "2026-04-01T00:00:00Z"
-doi: "https://qks.sufe.edu.cn/J/CJYJ/Article/Details/A0HOn4lQYr-mbQF-chvC-5WJ8-SXUJEM0VCyU7/CN"
+doi: "10.16538/j.cnki.jfe.20251213.301"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-01T00:00:00Z"
@@ -36,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://qks.sufe.edu.cn/J/CJYJ/Article/Details/A0HOn4lQYr-mbQF-chvC-5WJ8-SXUJEM0VCyU7/CN'
+url_source: 'https://doi.org/10.16538/j.cnki.jfe.20251213.301'
 url_video: ''
 
 # Featured image
