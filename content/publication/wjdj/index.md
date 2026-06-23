@@ -3,11 +3,11 @@ title: "外部技术断供与通用性创新质量"
 authors:
 - 谢佳松
 - 王成烨
-date: "2026-01-01T00:00:00Z"
+date: "2026-06-01T00:00:00Z"
 doi: "10.12088/PKU.jjkx.2026.03.03"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-01T00:00:00Z"
+publishDate: "2026-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
