@@ -6,11 +6,11 @@ authors:
 - Wenbiao Sha
 - Jiasong Xie
 
-date: "2026-02-01T00:00:00Z"
+date: "2026-07-01T12:00:00Z"
 doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836199"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-02-01T00:00:00Z"
+publishDate: "2026-07-01T12:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
