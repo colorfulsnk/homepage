@@ -1,13 +1,13 @@
 ---
-title: "从溢出到突破：数字知识流动何以拓展企业创新边界"
+title: "从溢出到突破：数字知识流动与企业创新边界"
 authors:
 - 谢佳松
 - 樊嘉诚
-date: "2025-05-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "世界经济录用，待刊"
 publication_short: ""
 
 abstract: 
