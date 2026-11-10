@@ -27,8 +27,7 @@ abstract: We investigate the underlying motivations that drive local governments
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
