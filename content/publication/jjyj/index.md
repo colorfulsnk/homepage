@@ -25,8 +25,7 @@ abstract: 从“创新大国”迈向“创新强国”的战略转型中，如�
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
