@@ -5,7 +5,7 @@ authors:
 - 林建浩
 - 罗挺威
 date: "2024-08-01T00:00:00Z"
-doi: "https://manu30.magtech.com.cn/sjjj/CN/Y2024/V47/I8/67"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-01T00:00:00Z"
@@ -25,8 +25,7 @@ abstract: 代际流动是影响经济活动的重要社会环境因素,其水平
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
@@ -38,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://manu30.magtech.com.cn/sjjj/CN/Y2024/V47/I8/67'
 url_video: ''
 
 # Featured image
