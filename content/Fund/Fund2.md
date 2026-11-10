@@ -1,5 +1,6 @@
 ---
 title: "教育部人文社会科学项目"
+summary: "2025-2027"
 ---
 
 <div style="display: flex; justify-content: space-between;">
