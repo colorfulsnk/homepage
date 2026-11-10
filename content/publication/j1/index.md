@@ -6,7 +6,7 @@ authors:
 - 林建浩
 - 汪寿阳
 date: "2020-10-01T00:00:00Z"
-doi: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JCYJ202010004&uniplatform=NZKPT&v=rtKfF4ueHpEtjcPlOcTLNEncCtSbtOEl0m2ye7adc9L7tdv27HlEj3e5lA5B6INf"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-01T00:00:00Z"
@@ -26,8 +26,7 @@ abstract: 考察了地区代际流动性水平这一非正式制度因素对企�
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
@@ -39,7 +38,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JCYJ202010004&uniplatform=NZKPT&v=rtKfF4ueHpEtjcPlOcTLNEncCtSbtOEl0m2ye7adc9L7tdv27HlEj3e5lA5B6INf'
 url_video: ''
 
 # Featured image
