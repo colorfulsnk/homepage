@@ -4,7 +4,7 @@ authors:
 - 谢佳松
 - 林建浩
 date: "2025-09-01T00:00:00Z"
-doi: "https://sjjj.magtech.com.cn/CN/Y2025/V48/I9/59#bccl"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-31T00:00:00Z"
@@ -24,8 +24,7 @@ abstract: 创新扩散是深入实施创新驱动发展战略,提升国家创新
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
@@ -37,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://sjjj.magtech.com.cn/CN/Y2025/V48/I9/59#bccl'
 url_video: ''
 
 # Featured image
