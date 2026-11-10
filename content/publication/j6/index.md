@@ -5,7 +5,7 @@ authors:
 - 张玲
 
 date: "2022-10-01T00:00:00Z"
-doi: "http://www.jjgl.cass.cn/Magazine/Show/84174"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-01T00:00:00Z"
@@ -24,8 +24,7 @@ abstract: CEO家乡背景是衡量非正式制度中社会关系和CEO个体特�
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
@@ -37,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'http://www.jjgl.cass.cn/Magazine/Show/84174'
 url_video: ''
 
 ---
