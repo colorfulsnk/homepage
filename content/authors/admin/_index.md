@@ -45,6 +45,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/colorfulsnk'
+    label: 'GitHub'
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://au.cnki.net/author/workbench/personalHomePage/000054312845'
+    label: '知网作者主页'
+  - icon: file-lines
+    icon_pack: fas
+    link: 'https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5915185'
+    label: 'SSRN'
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -68,4 +80,4 @@ SSRN论文地址：<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?pe
 《大数据分析：Python实践与大型语言模型应用》教材资源：<a href="https://github.com/colorfulsnk/bigdata-python-llm-book-resources">GitHub Repository</a>
 
 
-{{< icon name="download" pack="fas" >}} 个人简介：{{< staticref "uploads/demo_resume.pdf" "newtab" >}}查看 PDF{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 个人简介：{{< staticref "uploads/resume.pdf" "newtab" >}}查看 PDF{{< /staticref >}}.
