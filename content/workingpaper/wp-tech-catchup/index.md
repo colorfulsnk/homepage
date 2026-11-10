@@ -23,8 +23,7 @@ abstract: ""
 
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 url_pdf: ''
