@@ -6,7 +6,7 @@ authors:
 - 林建浩
 - 柯玮迪
 date: "2020-09-01T00:00:00Z"
-doi: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XTLL202009002&uniplatform=NZKPT&v=BTKKYpfgWExckHxwR8Hetv6Syj2DUTvODcyrXDYKPRBCzdwbCN0isp0jwiWNj6Ak"
+doi: "10.12011/1000-6788-2020-0227-14"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-01T00:00:00Z"
@@ -33,7 +33,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XTLL202009002&uniplatform=NZKPT&v=BTKKYpfgWExckHxwR8Hetv6Syj2DUTvODcyrXDYKPRBCzdwbCN0isp0jwiWNj6Ak'
 url_video: ''
 
 # Featured image
