@@ -4,7 +4,7 @@ authors:
 - 王伟同
 - 谢佳松*
 - 张玲
-date: "2019-07-01T00:00:00"
+date: "2019-07-01T00:00:00Z"
 doi: "10.19744/j.cnki.11-1235/f.2019.0094"
 
 
@@ -25,8 +25,7 @@ abstract: 本文从人口迁移行为偏好的视角讨论了地区代际流动�
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
