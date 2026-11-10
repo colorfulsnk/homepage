@@ -25,8 +25,7 @@ abstract: 代际流动固化,不仅影响经济发展,而且会导致社会问�
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
