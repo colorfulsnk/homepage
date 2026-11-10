@@ -1,10 +1,10 @@
 ---
-title: "金融网络何以推动创新扩散——基于商业银行异地分支机构设立的实证研"
+title: "金融网络何以推动创新扩散——基于商业银行异地分支机构设立的实证研究"
 authors:
 - 谢佳松
 - 才国伟
 date: "2025-01-01T00:00:00Z"
-doi: "https://cmjj.ajcass.com"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
@@ -24,8 +24,7 @@ abstract: 推动创新要素在区域间自由流动是实现区域协调发展�
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
@@ -37,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://cmjj.ajcass.com'
 url_video: ''
 
 # Featured image
