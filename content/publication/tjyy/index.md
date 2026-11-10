@@ -5,7 +5,7 @@ authors:
 - 樊嘉诚
 - 林建浩
 date: "2025-02-01T00:00:00Z"
-doi: "https://tjyj.cbpt.cnki.net/portal"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-01T00:00:00Z"
@@ -25,8 +25,7 @@ abstract: 现有文献主要基于专利或研发投入测度企业创新水平�
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
@@ -38,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://tjyj.cbpt.cnki.net/portal'
 url_video: ''
 
 # Featured image
