@@ -1,5 +1,6 @@
 ---
 title: "辽宁省自然科学基金项目"
+summary: "2025-2027"
 ---
 
 <div style="display: flex; justify-content: space-between;">
