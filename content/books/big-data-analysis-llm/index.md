@@ -39,6 +39,12 @@ url_slides: ''
 url_source: http://www.dufep.cn/BookDetail.aspx?id=11987
 url_video: ''
 
+# Featured image
+image:
+  caption: ''
+  focal_point: 'Smart'
+  preview_only: false
+
 projects: []
 ---
 
