@@ -19,7 +19,7 @@ design:
     &ensp;<span style="display:inline-block;background:#0f766e;color:#ffffff;padding:1px 9px;border-radius:10px;font-size:0.78rem;font-weight:600;vertical-align:2px;">课程</span>
     &ensp;<span style="color:#6b7280;font-size:0.9rem;">东北财经大学 · 课程课件</span>
   </div>
-  <div style="color:#374151;margin-top:4px;">数据作为新型生产要素的理论基础、统计工具与经济学建模应用（Lecture 1–4，持续更新）</div>
+  <div style="color:#374151;margin-top:4px;">以贝叶斯更新与滤波为核心工具，构建数据影响信念、决策与经济结果的理论模型。</div>
   <div style="margin-top:4px;">
     <a href="https://github.com/colorfulsnk/data-elements-course" target="_blank" rel="noopener">GitHub 仓库 · 课件下载</a>
   </div>
