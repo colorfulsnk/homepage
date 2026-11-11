@@ -16,7 +16,7 @@ publishDate: "2026-07-02T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "世界经济录用，待刊"
+publication: "世界经济，录用待刊"
 publication_short: ""
 
 abstract: 
