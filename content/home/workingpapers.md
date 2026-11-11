@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 95
 
 title: Working Papers
 subtitle: ''
