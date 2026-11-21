@@ -35,7 +35,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.12088/PKU.jjkx.2026.03.03'
+url_source: 'https://kns.cnki.net/kns8s/defaultresult/index?kw=%E5%A4%96%E9%83%A8%E6%8A%80%E6%9C%AF%E6%96%AD%E4%BE%9B%E4%B8%8E%E9%80%9A%E7%94%A8%E6%80%A7%E5%88%9B%E6%96%B0%E8%B4%A8%E9%87%8F'
 url_video: ''
 
 # Featured image
