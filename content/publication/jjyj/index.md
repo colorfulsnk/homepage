@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://kns.cnki.net/kns8s/defaultresult/index?kw=%E4%BF%A1%E6%81%AF%E6%91%A9%E6%93%A6%20%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%88%9B%E6%96%B0%E8%BE%B9%E7%95%8C'
 url_video: ''
 
 # Featured image
