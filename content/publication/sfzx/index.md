@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'paper.pdf'
+url_pdf: '/publication/sfzx/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
