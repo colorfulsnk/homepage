@@ -27,7 +27,7 @@ abstract: 现有关于虚拟经济影响实体经济的文献大多以宏观数�
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=CJYJ201811007&uniplatform=NZKPT&v=4kMiogFsXD_wkczFYhnUjEESQ2zNpSSob10tjbp-iYOYLDPKIMotzM0ynnBEH12B'
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
