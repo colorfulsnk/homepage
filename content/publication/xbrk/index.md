@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XBRK201803008&uniplatform=NZKPT&v=T8CV5kUUhLs-T89WjrikwJVydVjYXyGvwNZLvVpG6O7-ObWlFLzH8S2PUB4y2yyd'
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
