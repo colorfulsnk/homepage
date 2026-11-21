@@ -27,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=SLJY201901005&uniplatform=NZKPT&v=pvnBdY4O9I8H0BAPN8OmkIz043bg-BKmK6pH3rrHpaYFnQ5mSmqYOLt9ohRuegAs'
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
