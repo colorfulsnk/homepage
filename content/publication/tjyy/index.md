@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://tjyj.cbpt.cnki.net/portal'
+url_source: 'https://kns.cnki.net/kns8s/defaultresult/index?kw=%E6%88%91%E5%9B%BD%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E6%96%B0%E6%B4%BB%E5%8A%A8%E7%9A%84%E6%B5%8B%E5%BA%A6%20%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%E7%9A%84%E6%96%B9%E6%B3%95'
 url_video: ''
 
 # Featured image
