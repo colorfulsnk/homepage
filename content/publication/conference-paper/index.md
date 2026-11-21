@@ -13,7 +13,7 @@ authors:
 
 
 date: '2023-04-01T00:00:00Z'
-doi: '10.16538/j.cnki.jfe.20220714.201'
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-01T00:00:00Z'
@@ -45,7 +45,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.16538/j.cnki.jfe.20220714.201'
 url_video: ''
 
 # Featured image
