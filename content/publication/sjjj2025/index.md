@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://sjjj.magtech.com.cn/CN/Y2025/V48/I9/59#bccl
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
