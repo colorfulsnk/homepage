@@ -46,6 +46,7 @@ design:
 <div style="margin-bottom: 1.3rem;">
   <div style="font-weight: 700; color: #111827; margin-bottom: 5px;">学术活动</div>
   <ul style="margin: 0; padding-left: 20px;">
+    <li><span style="color: #1f6feb; font-weight: 600;">2026.11</span>&ensp;中国数量经济学会2026年（重庆）年会：《技术过时压力、前沿引致需求与企业技术追赶》</li>
     <li><span style="color: #1f6feb; font-weight: 600;">2026.07</span>&ensp;上海财经大学暑期学校学术论文报告：《算力供给、产业链网络与定向技术进步》</li>
     <li><span style="color: #1f6feb; font-weight: 600;">2026.07</span>&ensp;东北财经大学暑期学校讲座：《大数据分析：文本数据挖掘与大语言模型应用》</li>
   </ul>
