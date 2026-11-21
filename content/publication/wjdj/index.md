@@ -4,7 +4,7 @@ authors:
 - 谢佳松
 - 王成烨
 date: "2026-06-01T00:00:00Z"
-doi: "10.12088/PKU.jjkx.2026.03.03"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-06-01T00:00:00Z"
