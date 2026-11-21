@@ -27,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'paper.pdf'
+url_pdf: '/publication/j5/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
