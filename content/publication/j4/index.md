@@ -27,7 +27,7 @@ abstract: 制度环境是影响个体迁移决策的重要因素,国有环境作
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'paper.pdf'
+url_pdf: '/publication/j4/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
