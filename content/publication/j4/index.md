@@ -6,7 +6,7 @@ authors:
 - 谢佳松
 
 date: "2019-09-01T00:00:00Z"
-doi: "10.16538/j.cnki.jfe.2019.09.006"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.16538/j.cnki.jfe.2019.09.006'
 url_video: ''
 
 # Featured image
