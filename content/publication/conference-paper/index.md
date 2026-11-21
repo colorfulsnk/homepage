@@ -39,7 +39,7 @@ abstract: 中国传统社会中的善会善堂作为民间慈善组织，兼具�
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UEEndG6Z_ZlviO9V9NhGtnVtbgpbgGEJGvJ-m_iIffV1&uniplatform=NZKPT'
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
