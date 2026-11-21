@@ -25,7 +25,7 @@ abstract: 儒家文化作为中华民族历史上最为重要的哲学体系,是
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'paper.pdf'
+url_pdf: '/publication/j2/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
