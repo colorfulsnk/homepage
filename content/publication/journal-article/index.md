@@ -5,7 +5,7 @@ authors:
 - 谢佳松*
 - 张玲
 date: "2019-07-01T00:00:00Z"
-doi: "10.19744/j.cnki.11-1235/f.2019.0094"
+doi: ""
 
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.19744/j.cnki.11-1235/f.2019.0094'
 url_video: ''
 
 # Featured image
