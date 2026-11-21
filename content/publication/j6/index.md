@@ -36,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'http://www.jjgl.cass.cn/Magazine/Show/84174'
+url_source: 'https://kns.cnki.net/kns8s/defaultresult/index?kw=%E6%9C%AC%E5%9C%B0CEO%E4%B8%8E%E4%BC%81%E4%B8%9A%E4%BB%B7%E5%80%BC%20%E6%8E%A8%E5%8A%A8%E8%BF%98%E6%98%AF%E6%8E%8F%E7%A9%BA'
 url_video: ''
 
 ---
