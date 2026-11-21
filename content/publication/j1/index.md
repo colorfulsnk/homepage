@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JCYJ202010004&uniplatform=NZKPT&v=rtKfF4ueHpEtjcPlOcTLNEncCtSbtOEl0m2ye7adc9L7tdv27HlEj3e5lA5B6INf
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
