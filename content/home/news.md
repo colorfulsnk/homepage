@@ -14,6 +14,32 @@ design:
 ---
 
 <div style="line-height: 1.65;">
+<div style="border: 1px solid #e5e7eb; border-radius: 10px; padding: 14px 4px 10px; margin-bottom: 1.8rem; background: #fbfcfe;">
+  <div style="display: flex; flex-wrap: wrap; text-align: center;">
+    <div style="flex: 1 1 130px; padding: 4px 8px; border-right: 1px solid #e5e7eb;">
+      <div style="color: #374151; font-weight: 600; font-size: 0.95rem;">总发文</div>
+      <div style="color: #1f6feb; font-weight: 700; font-size: 1.75rem; line-height: 1.35;">18</div>
+      <div style="color: #16a34a; font-size: 0.82rem;">最近半年：+1</div>
+    </div>
+    <div style="flex: 1 1 130px; padding: 4px 8px; border-right: 1px solid #e5e7eb;">
+      <div style="color: #374151; font-weight: 600; font-size: 0.95rem;">被引数</div>
+      <div style="color: #1f6feb; font-weight: 700; font-size: 1.75rem; line-height: 1.35;">756</div>
+      <div style="color: #16a34a; font-size: 0.82rem;">最近半年：+76</div>
+    </div>
+    <div style="flex: 1 1 130px; padding: 4px 8px; border-right: 1px solid #e5e7eb;">
+      <div style="color: #374151; font-weight: 600; font-size: 0.95rem;">下载量</div>
+      <div style="color: #1f6feb; font-weight: 700; font-size: 1.75rem; line-height: 1.35;">55,451</div>
+      <div style="color: #16a34a; font-size: 0.82rem;">最近一个月：+1,630</div>
+    </div>
+    <div style="flex: 1 1 130px; padding: 4px 8px;">
+      <div style="color: #374151; font-weight: 600; font-size: 0.95rem;">H 指数</div>
+      <div style="color: #1f6feb; font-weight: 700; font-size: 1.75rem; line-height: 1.35;">13</div>
+      <div style="font-size: 0.82rem;"><a href="https://au.cnki.net/author/workbench/personalHomePage/000054312845" target="_blank" rel="noopener">知网主页 &gt;</a></div>
+    </div>
+  </div>
+  <div style="text-align: right; color: #9ca3af; font-size: 0.76rem; padding: 6px 10px 0;">数据更新于 2026 年 11 月 · 来源：中国知网</div>
+</div>
+
 
 <div style="margin-bottom: 1.3rem;">
   <div style="font-weight: 700; color: #111827; margin-bottom: 5px;">论文动态</div>
