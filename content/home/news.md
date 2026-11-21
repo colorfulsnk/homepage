@@ -14,33 +14,6 @@ design:
 ---
 
 <div style="line-height: 1.65;">
-<div style="background: linear-gradient(120deg, #eef4ff 0%, #f3f9f6 100%); border-radius: 16px; padding: 20px 4px 12px; margin-bottom: 2rem; box-shadow: 0 2px 16px rgba(31,111,235,0.05);">
-  <div style="display: flex; flex-wrap: wrap; text-align: center;">
-    <div style="flex: 1 1 130px; padding: 4px 8px;">
-      <div style="color: #5b6472; font-weight: 500; font-size: 0.95rem;">总发文</div>
-      <div style="background: linear-gradient(120deg, #1f6feb, #4f9cff); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 800; font-size: 1.8rem; line-height: 1.4;">18</div>
-      <div style="color: #2eaa5e; font-size: 0.82rem;">最近半年：+1</div>
-    </div>
-    <div style="flex: 1 1 130px; padding: 4px 8px;">
-      <div style="color: #5b6472; font-weight: 500; font-size: 0.95rem;">被引数</div>
-      <div style="background: linear-gradient(120deg, #1f6feb, #4f9cff); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 800; font-size: 1.8rem; line-height: 1.4;">756</div>
-      <div style="color: #2eaa5e; font-size: 0.82rem;">最近半年：+76</div>
-    </div>
-    <div style="flex: 1 1 130px; padding: 4px 8px;">
-      <div style="color: #5b6472; font-weight: 500; font-size: 0.95rem;">下载量</div>
-      <div style="background: linear-gradient(120deg, #1f6feb, #4f9cff); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 800; font-size: 1.8rem; line-height: 1.4;">55,451</div>
-      <div style="color: #2eaa5e; font-size: 0.82rem;">最近一个月：+1,630</div>
-    </div>
-    <div style="flex: 1 1 130px; padding: 4px 8px;">
-      <div style="color: #5b6472; font-weight: 500; font-size: 0.95rem;">H 指数</div>
-      <div style="background: linear-gradient(120deg, #1f6feb, #4f9cff); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 800; font-size: 1.8rem; line-height: 1.4;">13</div>
-      <div style="font-size: 0.82rem;"><a href="https://au.cnki.net/author/workbench/personalHomePage/000054312845" target="_blank" rel="noopener">知网主页 &gt;</a></div>
-    </div>
-  </div>
-  <div style="text-align: right; color: #a8b0bd; font-size: 0.76rem; padding: 10px 16px 0;">数据更新于 2026 年 11 月 · 来源：中国知网</div>
-</div>
-
-
 <div style="margin-bottom: 1.3rem;">
   <div style="font-weight: 700; color: #111827; margin-bottom: 5px;">论文动态</div>
   <ul style="margin: 0; padding-left: 20px;">
