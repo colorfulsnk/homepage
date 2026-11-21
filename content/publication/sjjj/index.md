@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://manu30.magtech.com.cn/sjjj/CN/Y2024/V47/I8/67'
+url_source: 'https://sjjj.magtech.com.cn/CN/Y2024/V47/I8/67'
 url_video: ''
 
 # Featured image
