@@ -27,7 +27,7 @@ abstract: 信任被认为是一种非正式制度和重要的社会资本,在正
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XTLL202009002&uniplatform=NZKPT&v=BTKKYpfgWExckHxwR8Hetv6Syj2DUTvODcyrXDYKPRBCzdwbCN0isp0jwiWNj6Ak'
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
